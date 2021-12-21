@@ -1,9 +1,0 @@
-language = "python3"
-
-run = """
-cd RazorMessageWallApp
-dotnet watch -p RazorMessageWallApp.csproj run
-firefox http://localhost:5000
-"""
-
-
