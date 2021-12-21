@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorMessageWallApp", "RazorMessageWallApp.csproj", "{B9058C24-AA29-48F7-8AEC-D16CB3FAAC38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9058C24-AA29-48F7-8AEC-D16CB3FAAC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9058C24-AA29-48F7-8AEC-D16CB3FAAC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9058C24-AA29-48F7-8AEC-D16CB3FAAC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9058C24-AA29-48F7-8AEC-D16CB3FAAC38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6C5FE8-8296-4EB1-B6E8-4F2D42424319}
+	EndGlobalSection
+EndGlobal
