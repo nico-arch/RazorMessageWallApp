@@ -47,3 +47,5 @@ C:\Users\newni\source\repos\RazorMessageWallApp\obj\Debug\net5.0\RazorMessageWal
 C:\Users\newni\source\repos\RazorMessageWallApp\obj\Debug\net5.0\ref\RazorMessageWallApp.dll
 C:\Users\newni\source\repos\RazorMessageWallApp\obj\Debug\net5.0\RazorMessageWallApp.pdb
 C:\Users\newni\source\repos\RazorMessageWallApp\obj\Debug\net5.0\RazorMessageWallApp.genruntimeconfig.cache
+C:\Users\newni\source\repos\RazorMessageWallApp\obj\Debug\net5.0\Razor\Pages\Greeting.cshtml.g.cs
+C:\Users\newni\source\repos\RazorMessageWallApp\obj\Debug\net5.0\RazorMessageWallApp.csproj.AssemblyReference.cache
