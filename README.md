@@ -1,2 +1,3 @@
 # RazorMessageWallApp
- C# testt
+
+ Asp.net Core tests
